@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js build outputs
+/.next
+/out
+
+# production build outputs
+/build
+
+# misc
+.DS_Store
+*.local
+.env*.local
+.cache
+*.tgz
+
+# genkit
+.genkit
+dist
